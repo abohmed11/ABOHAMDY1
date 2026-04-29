@@ -17,11 +17,14 @@ const CONFIG = {
 
   // مسارات الملفات
   crestImage:
-    "Gemini_Generated_Image_aai6peaai6peaai6-removebg-preview.webp",
-  doorStaticBg: "demo3.webp",
-  doorGif: "image1.mp4", // فيديو بدون صوت
-  detailsBg: "image2.webp",
-  musicUrl: "music1.mp3",
+ "assets/images/Gemini_Generated_Image_aai6peaai6peaai6-removebg-preview.webp",
+  doorStaticBg: "assets/images/demo3.webp",
+  doorGif: "assets/images/image1.mp4", // فيديو بدون صوت
+  detailsBg: "assets/images/image2.webp",
+  musicUrl: "assets/music/music1.mp3",
+
+
+    
 
   // أرقام واتساب
   groomWhatsappNumber: "201103960236",
